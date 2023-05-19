@@ -1,0 +1,18 @@
+C:\Users\david\source\repos\güzellik merkez\güzellik merkez\bin\Debug\güzellik merkez.exe.config
+C:\Users\david\source\repos\güzellik merkez\güzellik merkez\bin\Debug\güzellik merkez.exe
+C:\Users\david\source\repos\güzellik merkez\güzellik merkez\bin\Debug\güzellik merkez.pdb
+C:\Users\david\source\repos\güzellik merkez\güzellik merkez\obj\Debug\güzellik merkez.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\güzellik merkez\güzellik merkez\obj\Debug\güzellik merkez.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\source\repos\güzellik merkez\güzellik merkez\obj\Debug\güzellik_merkez.Form1.resources
+C:\Users\david\source\repos\güzellik merkez\güzellik merkez\obj\Debug\güzellik_merkez.Properties.Resources.resources
+C:\Users\david\source\repos\güzellik merkez\güzellik merkez\obj\Debug\güzellik merkez.csproj.GenerateResource.cache
+C:\Users\david\source\repos\güzellik merkez\güzellik merkez\obj\Debug\güzellik merkez.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\güzellik merkez\güzellik merkez\obj\Debug\güzellik merkez.exe
+C:\Users\david\source\repos\güzellik merkez\güzellik merkez\obj\Debug\güzellik merkez.pdb
+C:\Users\david\source\repos\güzellik merkez\güzellik merkez\obj\Debug\güzellik_merkez.Form2.resources
+C:\Users\david\source\repos\güzellik merkez\güzellik merkez\obj\Debug\güzellik_merkez.ciltbakim.resources
+C:\Users\david\source\repos\güzellik merkez\güzellik merkez\obj\Debug\güzellik_merkez.Form3.resources
+C:\Users\david\source\repos\güzellik merkez\güzellik merkez\obj\Debug\güzellik_merkez.Form4.resources
+C:\Users\david\source\repos\güzellik merkez\güzellik merkez\obj\Debug\güzellik_merkez.kastasarim.resources
+C:\Users\david\source\repos\güzellik merkez\güzellik merkez\obj\Debug\güzellik_merkez.proteztirnak.resources
+C:\Users\david\source\repos\güzellik merkez\güzellik merkez\obj\Debug\güzellik_merkez.sakalbakim.resources
